@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis, Data Visualizaton, Machine Learning, Programming
 - 😍 I'm proficient in C#, SQL, Python, Visual Basic, Pandas, Numpy, Seaborn, Sci-kit Learn
 - 🌱 I’m currently learning a bunch of ML algorithms, Tensorflow, and R 
-- 💞️ I’m not looking to collab on anything at the moment. 
+- 💞️ Reach out if you like my work and would like to collab! 
 - 📫 How to reach me? Give me a DM on linkedin.com/in/aradiajoanne or email at aradiajoannelarkin@outlook.com
 
 <!---
